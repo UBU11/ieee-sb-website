@@ -30,8 +30,7 @@ const HomePage = () => {
           <Spacer/>
           <ExecomSection />
           <Spacer/>
-          <InfoSection />
-          
+          <InfoSection /> 
           {/* <Upthinq/> */}
           {/* <Gallery/> */}  
       </div>
