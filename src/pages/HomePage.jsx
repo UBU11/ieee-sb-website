@@ -10,7 +10,7 @@ import ExecomSection from "../components/ExecomSection/ExecomSection";
 import GallerySection from "../components/GallerySection/GallerySection";
 import InfoSection from "@/components/InfoSection/InfoSection";
 import Spacer from "@/components/Spacer";
-import ArticleGrid from "@/components/BlogSIte/ArticleGrid";
+
 
 
 const HomePage = () => {
@@ -31,7 +31,7 @@ const HomePage = () => {
           <ExecomSection />
           <Spacer/>
           <InfoSection />
-          <ArticleGrid />
+          
           {/* <Upthinq/> */}
           {/* <Gallery/> */}  
       </div>
